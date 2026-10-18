@@ -1,0 +1,44 @@
+
+# ==========================================
+# FILE DATA BESAR - abaikan ekstensi umum
+# ==========================================
+
+# CSV dan spreadsheet
+*.csv
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+*.ods
+
+# Dokumen
+*.doc
+*.docx
+*.docm
+*.odt
+*.pdf
+
+# Arsip
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# File media besar
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.psd
+*.iso
+
+# Folder data lokal (opsional)
+data/
+datasets/
+large_files/
+uploads/
+
+# File sementara
+*.tmp
+*.bak
